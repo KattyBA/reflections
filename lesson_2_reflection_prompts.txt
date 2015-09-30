@@ -1,0 +1,2 @@
+
+How is the staging area different from the working directiory and the repository? What value do you think if offers
